@@ -1,13 +1,13 @@
-# ngager-datepicker
+# libary-name
 
-> ReactJS Date Picker component
+> Libary-description
 
-[![NPM](https://img.shields.io/npm/v/ngager-datepicker.svg)](https://www.npmjs.com/package/ngager-datepicker) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/libary-name.svg)](https://www.npmjs.com/package/libary-name) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save ngager-datepicker
+npm install --save libary-name
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save ngager-datepicker
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'ngager-datepicker'
+import MyComponent from 'libary-name'
 
 class Example extends Component {
   render () {
